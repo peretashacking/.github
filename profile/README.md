@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://peretascdn.pages.dev/peretaslogo.png" alt="Peretas Group logo" width="200"><br>
+  <img src="https://cdn.peretas.tech/pt_logo_gradient_bkg.png" alt="Peretas Group logo" width="200"><br>
 <h1>Peretas Technologies</h1>
 </div>
 
